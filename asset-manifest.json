@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/coinwebsite-react.git/static/js/main.5c880bb7.js",
-    "index.html": "/coinwebsite-react.git/index.html",
-    "main.5c880bb7.js.map": "/coinwebsite-react.git/static/js/main.5c880bb7.js.map"
+    "main.js": "/coinwebsite-react/static/js/main.5c880bb7.js",
+    "index.html": "/coinwebsite-react/index.html",
+    "main.5c880bb7.js.map": "/coinwebsite-react/static/js/main.5c880bb7.js.map"
   },
   "entrypoints": [
     "static/js/main.5c880bb7.js"
